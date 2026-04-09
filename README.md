@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tecnologias que estou estudando
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devan-M)
+![Top Langs](https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Devan-M&layout=compact)
 - HTML
 - CSS
 - JavaScript
@@ -25,3 +25,9 @@
 
 ## 📫 Contato
 - LinkedIn: https://www.linkedin.com/in/devan-m/
+
+## 📊 Estatísticas
+
+![Stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Devan-M)
+
+![Top Langs](https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Devan-M&layout=compact)
