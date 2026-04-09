@@ -24,4 +24,4 @@
 ---
 
 ## 📫 Contato
-- LinkedIn: (coloque aqui depois)
+- LinkedIn: https://www.linkedin.com/in/devan-m/
