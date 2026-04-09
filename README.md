@@ -1,33 +1,46 @@
-# Olá, eu sou o Devan 👋
+<h1 align="center">Olá, eu sou o Devan 👋</h1>
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-💻 Interesse em desenvolvimento web e redes  
-🚀 Buscando oportunidade de estágio em TI  
-
----
-
-## 🛠 Tecnologias que estou estudando
-![Top Langs](https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Devan-M&layout=compact)
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Python
+<p align="center">
+🎓 Estudante de Análise e Desenvolvimento de Sistemas <br>
+💻 Focado em desenvolvimento web, redes e automação <br>
+🚀 Em busca de oportunidade de estágio em TI
+</p>
 
 ---
 
-## 📌 Projetos
-- 📋 Lista de tarefas com localStorage
-- 🌐 Projeto de site institucional
-- ⚙️ Script em Python para automação
+## 🛠 Tecnologias
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3" />
+</p>
+
+
+---
+
+## 📌 Projetos em destaque
+
+- 📋 Lista de tarefas com localStorage  
+- 🌐 Site institucional (HTML, CSS, JS)  
+- ⚙️ Script Python para automação (AutoCAD / Excel)  
+- 🛠 Projetos de redes e infraestrutura  
+
+---
+
+## 🚀 Objetivo
+
+Atuar na área de tecnologia, desenvolvendo soluções práticas e contribuindo com projetos reais, especialmente em desenvolvimento web, automação e infraestrutura de TI.
 
 ---
 
 ## 📫 Contato
-- LinkedIn: https://www.linkedin.com/in/devan-m/
 
-## 📊 Estatísticas
-
-![Stats](https://github-readme-stats-git-masterrstaa.vercel.app/api?username=Devan-M)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa.vercel.app/api/top-langs/?username=Devan-M&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
